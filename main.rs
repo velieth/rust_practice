@@ -1,4 +1,4 @@
-// Lesson #55
+// CLI implementation of a basic calculator that accepts one operator
 use std::env::{args, Args};
 
 fn main() {
